@@ -1,6 +1,6 @@
 /*************************************************************************************************************************/
-/** File name   : Ex1.c                                                                                        ************/
-/** Description : Write a program in C to show a pointer to an array which contents are pointer to structure  ************/   
+/** File name   : Ex1.c                                                                                       ************/
+/** Description : Write a program in C to find prime numbers between two intervals                            ************/   
 /** Author      : Yasmeen Ibrahim                                                                             ************/        
 /*************************************************************************************************************************/
 
