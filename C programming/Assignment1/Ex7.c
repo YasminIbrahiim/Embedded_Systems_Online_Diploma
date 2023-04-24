@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/************ Ex8 ************/
+/************ Ex7 ************/
 void main(void)
 {
 	int num1, num2 , num;
